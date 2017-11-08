@@ -3,7 +3,7 @@ const secret = 'ZmaSoIn805O38AswxQ5z4UgfkG8u61U0ZDCEBZ12xNKokp5sN4uZLVF7oCO355p2
 
 let accessToken ;
 
-let Yelp = {
+ let Yelp = {
 
 	getAccessToken(){
 		if (accessToken) {
